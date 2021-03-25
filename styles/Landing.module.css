@@ -1,0 +1,9 @@
+.bgSection {
+  height: 100vh;
+  background: url("../public/icons/backg.svg");
+  position: absolute;
+  background-size: cover;
+  top: 0;
+  width: 100%;
+  background-position: 50%;
+}
